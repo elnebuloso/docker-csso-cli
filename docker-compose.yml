@@ -1,0 +1,10 @@
+version: "2"
+
+services:
+  main:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./test:/app
+    working_dir: /app
