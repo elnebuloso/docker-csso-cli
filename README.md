@@ -8,7 +8,7 @@
 
 # docker-csso-cli
 
-Dockerized Command line interface for CSSO CSS Minifier
+Dockerized Command Line Interface for CSSO - CSS Minifier
 
 ## github
 
