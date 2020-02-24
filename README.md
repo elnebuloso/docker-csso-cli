@@ -6,8 +6,6 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/elnebuloso/csso-cli.svg)](https://hub.docker.com/r/elnebuloso/csso-cli)
 [![GitHub](https://img.shields.io/github/license/elnebuloso/docker-csso-cli.svg)](https://github.com/elnebuloso/docker-csso-cli)
 
-# docker-csso-cli
-
 Dockerized Command Line Interface for CSSO - CSS Minifier
 
 ## github
@@ -17,7 +15,8 @@ Dockerized Command Line Interface for CSSO - CSS Minifier
 ## docker
 
 - https://hub.docker.com/r/elnebuloso/csso-cli
-- https://hub.docker.com/r/elnebuloso/csso-cli/tags
+- https://hub.docker.com/r/elnebuloso/csso-cli/tags?page=1&ordering=last_updated
+- weekly builds, 0 0 * * 0
 
 ## container development
 
